@@ -30,7 +30,7 @@ This is a simple and interactive calculator web application built using HTML, CS
 
 ## 🔗 Live Demo
 
-[Click here to try the calculator](https://saumyadwivedi071.github.io/calculator)
+[Click here to try the calculator](https://saumyadwivedi071.github.io/Smart-Calculator-01/)
 
 ---
 
