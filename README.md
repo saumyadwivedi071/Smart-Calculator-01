@@ -26,9 +26,13 @@ This is a simple and interactive calculator web application built using HTML, CS
 ![Calculator Screenshot](![Calculator_ScreenShot](https://github.com/user-attachments/assets/9a053bcd-c037-4a32-b291-0be5c321328e)
 
 
-
 ---
 
+## 🔗 Live Demo
+
+[Click here to try the calculator](https://saumyadwivedi071.github.io/calculator)
+
+---
 
 ## 📁 How to Run Locally
 
