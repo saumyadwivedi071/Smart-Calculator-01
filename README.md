@@ -23,7 +23,7 @@ This is a simple and interactive calculator web application built using HTML, CS
 
 ## 📷 Screenshot
 
-![Calculator Screenshot](![Calculator_ScreenShot](https://github.com/user-attachments/assets/9a053bcd-c037-4a32-b291-0be5c321328e)
+![Calculator Screenshot] ![Calculator_ScreenShot](https://github.com/user-attachments/assets/9a053bcd-c037-4a32-b291-0be5c321328e)
 
 
 ---
